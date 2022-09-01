@@ -1,0 +1,3 @@
+FROM rust:1.62.0-bullseye@sha256:3504447ad730b22f0dfebd563af9581f351e8fbe32f632e4125577c31beea25c
+
+ENTRYPOINT ["cargo"]
